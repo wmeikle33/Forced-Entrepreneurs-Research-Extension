@@ -1,3 +1,5 @@
 regress entre_dum unemp_national_var female :base 2 4 6 7 8 9
 
 regress umep_national_var female major_id naics_3dig
+
+regress entre_tp2_ipo umep_national_var female major_id naics_3dig
